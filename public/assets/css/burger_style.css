@@ -1,57 +1,57 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e3c888;
+    background-color: #e9bf6a;
 }
 
 
 
 .header-image {
     margin: 0px auto;
-    width: 400px;
-    border-radius: 10px;
+    width: 401px;
+    border-radius: 11px;
 }
 
 h1 {
     text-align: center;
-    color: #cc4b37;
-    margin-bottom: 5px;
+    color: #c74b38;
+    margin-bottom: 6px;
 }
 
 .column-container {
-    background-color: #FA9632;
-    border-radius: 10px;
-    padding: 10px;
-    margin-bottom: 20px;
+    background-color: #fa9530;
+    border-radius: 11px;
+    padding: 11px;
+    margin-bottom: 21px;
 }
 
 
 
 .form-container {
     margin: 0 auto;
-    padding: 10px;
-    border-radius: 10px;
-    margin-top: 20px;
+    padding: 11px;
+    border-radius: 11px;
+    margin-top: 21px;
 }
 
 .create-form {
-    background-color: #FAC864;
+    background-color: #f7c35d;
 }
 
 .create-form h3 {
     text-align: center;
-    color: #969190;
-    border-radius: 10px 10px 0 0;
+    color: #9c9897;
+    border-radius: 11px 11px 0 0;
 }
 
 table abody tr:nth-child(even) {
-    background-color: #fbf586;
+    background-color: #fcf689;
 }
 
 table abody tr:nth-child(odd) {
-    background-color: #fffbaa;
+    background-color: #fcf7a7;
 }
 
 .input-group-field {
-    background-color: #fffbaa;
+    background-color: #fffba9;
     
 }
